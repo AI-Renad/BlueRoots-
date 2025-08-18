@@ -15,7 +15,7 @@ st.markdown("""
 """)
 
 # ===== قراءة CSV =====
-df = pd.read_csv("/Users/renad/Desktop/points.csv", encoding='utf-8')
+df = pd.read_csv("points.csv", encoding='utf-8')
 
 # ===== دالة لاستخراج الأرقام من النصوص =====
 def extract_number(val):
