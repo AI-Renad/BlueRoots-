@@ -1,0 +1,4 @@
+name,type,temperature,summer_temperature,winter_temperature,salinity,humidity,tidal_range,soil_type,species_diversity,protected_status,supervising_authority,notes,status,lon,lat
+مانغروف جدة (ثول),Red Mangrove,28°C,32°C,24°C,30 PSU,70%,1.2-3.5 m,طينية رملية,12 نوعًا,محمي,وزارة البيئة,منطقة حماية ساحلية,healthy,39.09,22.33
+أرخبيل فرسان,Black Mangrove,27°C,31°C,23°C,32 PSU,72%,1.0-3.2 m,رملية طينية,15 نوعًا,جزء من محمية بحرية,وزارة البيئة,جزء من محمية بحرية,vulnerable,41.7,16.7
+القطيف/صفوى,Avicennia,29°C,34°C,25°C,35 PSU,68%,1.5-4.0 m,طينية رملية,10 نوعًا,مراقبة بيئية,جهة محلية,موقع مراقبة بيئية,critical,49.98,26.56
